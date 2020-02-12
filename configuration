@@ -1,0 +1,13 @@
+{
+"in_folder"   : "/hits/basement/nlp/fatimamh/summarization_data/in",
+"out_folder"  : "/hits/basement/nlp/fatimamh/summarization_data/out",
+"dict_folder" : "/hits/basement/nlp/fatimamh/summarization_data/dict",
+"json_files"  : ["en_train_all.json","en_val_all.json","en_test_all.json"],
+"csv_files"   : ["en_train_all.csv", "en_val_all.csv", "en_test_all.csv"],
+"train_folder": "/hits/basement/nlp/fatimamh/summarization_data/in/train",
+"val_folder"  : "/hits/basement/nlp/fatimamh/summarization_data/in/val",
+"test_folder" : "/hits/basement/nlp/fatimamh/summarization_data/in/test",
+"text_len"	  : 400,
+"sum_len"	  : 100,  
+"w_i_file"	  : "/hits/basement/nlp/fatimamh/summarization_data/dict/word_index",
+}
